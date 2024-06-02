@@ -1,0 +1,12 @@
+{
+  "name": "mahdi/web2_project",
+  "description": "A php application for tracking expenses",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "src/Framework",
+      "App\\": "src/App"
+    }
+  }
+}
